@@ -4,11 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace FizzBuzz2
+namespace FizzBuzzTests
 {
     public class Class
     {
-        
 
     }
 }
